@@ -1,0 +1,11 @@
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\netcoreapp2.1\ConsoleAppEntityFramework.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\netcoreapp2.1\ConsoleAppEntityFramework.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\netcoreapp2.1\ConsoleAppEntityFramework.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\netcoreapp2.1\ConsoleAppEntityFramework.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\netcoreapp2.1\ConsoleAppEntityFramework.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\netcoreapp2.1\ConsoleAppEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\netcoreapp2.1\ConsoleAppEntityFramework.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\netcoreapp2.1\ConsoleAppEntityFramework.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\bin\Debug\netcoreapp2.1\ConsoleAppEntityFramework.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\netcoreapp2.1\ConsoleAppEntityFramework.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 2\Modulo 2_ConsoleAppEntityFramework\ConsoleAppEntityFramework\obj\Debug\netcoreapp2.1\ConsoleAppEntityFramework.pdb

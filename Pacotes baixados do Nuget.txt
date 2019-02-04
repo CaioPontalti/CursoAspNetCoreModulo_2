@@ -1,0 +1,3 @@
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.Extensions.Logging.Console
+Microsoft.AspNetCore.All
